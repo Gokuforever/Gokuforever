@@ -1,4 +1,4 @@
-## 👋 Namaste, I'm <a href="https://www.itsanand.tech/"> <b style="color:red;">Anand Suryawanshi </b></a>  
+## 👋 Namaste, I'm Yogesh Khaire </b></a>  
 
 🔭 I'm Yogesh, Pursuing my bachlors deggre in Computer Engineering <br>
 🧑‍💻 I ❤️ to create interactive web experiences <br>
