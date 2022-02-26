@@ -2,7 +2,7 @@
 
 🔭 I'm Yogesh, Pursuing my bachlors deggre in BSC-IT <br>
 🧑‍💻 I ❤️ to create interactive web experiences <br>
-🤝 Looking forward to contribute in Web Dev <br>
+🤝 Looking forward to contribute in New Technology <br>
 
 
 
