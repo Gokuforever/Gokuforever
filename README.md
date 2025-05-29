@@ -64,9 +64,6 @@
   </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gokuforever&show_icons=true&locale=en&layout=compact" alt="Gokuforever" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokuforever&show_icons=true&locale=en" alt="Gokuforever" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokuforever&" alt="Gokuforever" /></p>
